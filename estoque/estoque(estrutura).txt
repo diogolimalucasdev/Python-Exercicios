@@ -1,0 +1,34 @@
+			CONTROLE DE ESTOQUE
+
+	produtos( valor inicial )
+
+	
+	while true
+	
+		Valor incial ( valor obitido na ultima consulta)
+
+			condição (ENTRADA / SAIDA)
+
+				ENTRADA
+				
+					escolha do produto / adicionar produto
+						
+						ESCOLHA DO PODUTO
+							adicionar itens
+
+						ADICIONAR PRODUTO
+							verificar se ja existe o produto
+								adicionar quantidade ou deixar zerado
+				SAÍDA
+					
+					escolha do produto / remover produto
+						ESCOLHA DO PRODUTO
+							removover itens
+						REMOVER PRODUTO
+
+							verificar se o produto existe
+								remover o produto
+
+					
+	
+		
